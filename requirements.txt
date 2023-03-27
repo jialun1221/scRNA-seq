@@ -1,0 +1,11 @@
+numpy
+pandas
+scanpy
+matplotlib
+scipy
+csr
+hdf5plugin
+inf
+seaborn
+torch
+torchvision
