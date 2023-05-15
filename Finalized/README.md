@@ -35,3 +35,10 @@ data_list = [adata_m1, adata_m2, adata_m3]
 
 **SUpport Vector Machine?** 
 - Run all cells, most importantly the mega-loop. Then paste the result dataframe into an excel sheet. 
+
+
+**Missing**
+RAndom Forest, 
+heat map
+All DAN files
+
