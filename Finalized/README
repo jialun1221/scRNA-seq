@@ -1,2 +1,8 @@
 Please follow this step-by-step guide to preprocess and create objects for different cell types. 
 
+PREPROCESSING
+*Before starting, please upload the .h5ad object into your Google Drive for easier access*
+1. Go to Preprocessing_step1.ipynb. Read in the desired .h5ad AnnData in this line: adata = sc.read_h5ad("drive/MyDrive/scRNA ML classifier/data_objects_May_2022/PD_mg.h5ad") 
+2. Run Data Selection Module. This module drops out cells of LBD.
+3. Run making new AnnData object. This module creates a processed data.
+4. Click the folder label on the leftmost panel --> click "write" --> download the new anndata object you just created, and upload it into your google drive. We will use this object for the second preprocessing.
