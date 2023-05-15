@@ -13,7 +13,7 @@
 6. Once the three objects for three methods are created, download them, then upload to Google Drive. 
 
 
-### Running Models
+### RUNNING MODELS
 Due to the looping nature, you need to modify the path pass in correct .h5ad file for each preprocessing method. 
 ```
 from google.colab import drive
