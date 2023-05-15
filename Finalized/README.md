@@ -38,7 +38,6 @@ data_list = [adata_m1, adata_m2, adata_m3]
 
 
 **Missing**
-RAndom Forest, 
-heat map
-All DAN files
-
+RAndom Forest for both DAN and Astro
+heat map plotting script for Bootstrapping 
+Bootstrapping for method 1 and method 3
